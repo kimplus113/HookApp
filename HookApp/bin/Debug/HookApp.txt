@@ -1,0 +1,9 @@
+vd : ví dụ
+lke : liệt kê
+bkdn : Bách khoa Đà Nẵng
+cntt : công nghệ thông tin
+da : đồ án
+csnm : cơ sở ngành mạng
+jv : java
+hdt : hướng đối tượng
+hvak : Hồ Văn Anh Kim

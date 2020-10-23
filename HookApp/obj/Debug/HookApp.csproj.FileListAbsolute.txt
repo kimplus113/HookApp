@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\HookApp\HookApp\bin\Debug\HookApp.exe.config
+C:\Users\ADMIN\source\repos\HookApp\HookApp\bin\Debug\HookApp.exe
+C:\Users\ADMIN\source\repos\HookApp\HookApp\bin\Debug\HookApp.pdb
+C:\Users\ADMIN\source\repos\HookApp\HookApp\obj\Debug\HookApp.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\HookApp\HookApp\obj\Debug\HookApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\HookApp\HookApp\obj\Debug\HookApp.exe
+C:\Users\ADMIN\source\repos\HookApp\HookApp\obj\Debug\HookApp.pdb
